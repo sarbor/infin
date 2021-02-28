@@ -45,7 +45,6 @@
 
   **
 
-# Design Document
 # Design Tenets
 ## Fast Iteration Speed
     - Creating the fully functioning Infin CLI should take <= 8 hours

@@ -41,7 +41,7 @@
         - *--enabled_feature_color (string): color to print enabled feature text in, choose from [BLACK, RED, GREEN, YELLOW, BLUE, MAGENTA, CYAN, WHITE]*
         - *--disabled_feature_color (string): color to print disabled feature text in, choose from [BLACK, RED, GREEN, YELLOW, BLUE, MAGENTA, CYAN, WHITE]*
 - repl
-    - *starts an interactive shell anf caches API response data*
+    - *starts an interactive shell and caches API response data*
 
   **
 

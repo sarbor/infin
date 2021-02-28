@@ -1,0 +1,25 @@
+{
+   "$schema":"http://json-schema.org/draft-04/schema#",
+   "title":"AI Capability",
+   "description":"JSON for the capabilities of an AI system",
+   "type":"object",
+   "properties":{
+      "title":{
+         "description":"The title of the AI capability",
+         "type":"string"
+      },
+      "enabled":{
+         "description":"Whether the capability is enabled",
+         "type":"boolean"
+      },
+      "category":{
+         "description":"The category of the AI capability",
+         "type":"string"
+      }
+   },
+   "required":[
+      "title",
+      "enabled",
+      "category"
+   ]
+}

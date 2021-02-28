@@ -13,7 +13,7 @@
     $ infin --help
 
 
-**Important: Must be within Infin/infin in order fo commands to work**
+**Important: Must be within Infin/infin in order for commands to work**
 
 
 # Example Usage
